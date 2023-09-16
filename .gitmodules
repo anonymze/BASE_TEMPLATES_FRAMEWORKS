@@ -7,3 +7,6 @@
 [submodule "symfony_open_api_docker"]
 	path = symfony_open_api_docker
 	url = https://github.com/anonymze/symfony_open_api_docker.git
+[submodule "bun_startup"]
+	path = bun_startup
+	url = https://github.com/anonymze/bun_startup.git
