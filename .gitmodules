@@ -1,0 +1,6 @@
+[submodule "nextjs_startup"]
+	path = nextjs_startup
+	url = https://github.com/anonymze/nextjs_startup.git
+[submodule "astro_startup"]
+	path = astro_startup
+	url = https://github.com/anonymze/astro_startup.git
