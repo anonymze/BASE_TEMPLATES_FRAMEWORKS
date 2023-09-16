@@ -4,3 +4,6 @@
 [submodule "astro_startup"]
 	path = astro_startup
 	url = https://github.com/anonymze/astro_startup.git
+[submodule "symfony_open_api_docker"]
+	path = symfony_open_api_docker
+	url = https://github.com/anonymze/symfony_open_api_docker.git
