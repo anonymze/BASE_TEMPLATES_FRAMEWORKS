@@ -12,7 +12,7 @@ My goal is to have a common convention on all my frameworks that i use. There ar
 
 *Back:*
 
-Back end is more what i can use for creating an API
+Back end is more what i can use for creating an API, and most of the time combined with docker for an all platform config
 
 - Bun
 - Symfony (api platform)
