@@ -1,6 +1,9 @@
-*BASE TEMPLATING FRAMEWORKS*
+# BASE TEMPLATING FRAMEWORKS
 
-My goal is to have a common convention on all my frameworks that i use
+My goal is to have a common convention on all my frameworks that i use. There are what i try to duplicate everywhere
 
-For now : 
-- Typescript / Tailwind / Eslint / Prettier / Naming folders
+- Typescript 
+- Eslint
+- Prettier
+- Tailwind
+- Naming folders
