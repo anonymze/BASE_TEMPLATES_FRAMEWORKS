@@ -6,4 +6,4 @@ My goal is to have a common convention on all my frameworks that i use. There ar
 - Eslint
 - Prettier
 - Tailwind
-- Naming folders
+- Tree and naming folders convention
